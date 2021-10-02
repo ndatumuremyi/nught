@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am NDATUMUREMYI Paterne and I am Computer engineer
 
 <!--
 **nught/nught** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 
 <img alt="codeSTACKr's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=nught&show_icons=false&theme=radical" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nught&show_icons=true&theme=radical&hide_border=true&layout=compact&hide=python&langs_count=20" />
-  
+ 
+ <!--
   # visited
   <img src="https://profile-counter.glitch.me/nught/count.svg" />
+  -->
